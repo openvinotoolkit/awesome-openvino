@@ -18,4 +18,4 @@ OpenVINO™ is an open-source toolkit for optimizing and deploying deep learning
 * [ OpenVINO™ C# API](https://github.com/guojin-yan/OpenVINO-CSharp-API) - C# API for OpenVINO
 
 ### Computer Vision
-*TODO
+* [TODO]
