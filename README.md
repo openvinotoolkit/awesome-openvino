@@ -8,7 +8,8 @@ OpenVINO™ is an open-source toolkit for optimizing and deploying deep learning
 ## Table of content 
 1. [Generative AI](#Generative-AI)
 2. [OpenVINO API extentions](#OpenVINO-API-extentions)
-3. [Computer Vision](#Computer-Vision)
+3. [Miscellaneous](#Miscellaneous)
+4. [Educational](#Educational)
 
 
 ### Generative AI 
