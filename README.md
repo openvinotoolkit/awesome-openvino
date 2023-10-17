@@ -1,9 +1,18 @@
-# awesome-openvino
-An Awesome list of OpenVINO based projects. The most exciting community projects based on OpenVINO are highlighted here. If you want your project to appear in this list, please create Pull Request or contact @DimaPastushenkov. 
+# Awesome OpenVINO ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
+A curated list of OpenVINO based AI projects. The most exciting community projects based on OpenVINO are highlighted here. If you want your project to appear in this list, please create a Pull Request or contact @DimaPastushenkov. 
 Inspired by `awesome-oneapi`
 
 ## What is OpenVINO 
-OpenVINO™ is an open-source toolkit for optimizing and deploying deep learning models
+OpenVINO™ is an open-source toolkit for optimizing and deploying deep learning models.
+
+## Further resources:
+
+* OpenVINO [GitHub repo](https://github.com/openvinotoolkit/openvino).
+
+* To download OpenVINO toolkit, go [here](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html).
+
+* A collection of ready-to-run Jupyter notebooks for learning and experimenting with the OpenVINO™ toolkit- [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks).
 
 ## Table of content 
 1. [Generative AI](#Generative-AI)
