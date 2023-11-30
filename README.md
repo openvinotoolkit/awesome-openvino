@@ -23,13 +23,14 @@ OpenVINO™ is an open-source toolkit for optimizing and deploying deep learning
 
 
 ### Generative AI 
-* [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - This is a repository for a browser interface based on Gradio library for Stable Diffusion
+* [Stable Diffusion web UI](https://github.com/openvinotoolkit/stable-diffusion-webui/) - This is a repository for a browser interface based on Gradio library for Stable Diffusion
+* [stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - This GitHub project provides an implementation of text-to-image generation using stable diffusion on Intel CPU or GPU. It requires Python 3.9.0 and is compatible with OpenVINO.
+* [Fast SD](https://github.com/rupeshs/fastsdcpu) - FastSD CPU is a faster version of Stable Diffusion on CPU. Based on Latent Consistency Models.
 * [OpenVINO™ AI Plugins for GIMP](https://github.com/intel/openvino-ai-plugins-gimp) - Provides a set of OpenVINO based plugins that add AI features to GIMP (GNU IMAGE
 MANIPULATION PROGRAM)
 * [Enhancing Customer Service with Real-Time Sentiment Analysis: Leveraging LLMs and OpenVINO for Instant Emotional Insights](https://github.com/samontab/llm_sentiment) - The integration of LLMs with sentiment analysis models, further optimised by OpenVINO.
 
 ### AI Computer Vision
-* [stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - This GitHub project provides an implementation of text-to-image generation using stable diffusion on Intel CPU or GPU. It requires Python 3.9.0 and is compatible with OpenVINO.
 * [BMW-IntelOpenVINO-Detection-Inference-API](https://github.com/BMW-InnovationLab/BMW-IntelOpenVINO-Detection-Inference-API) - This is a repository for an object detection inference API using OpenVINO, supporting both Windows and Linux operating systems
 * [yolov5_export_cpu](https://github.com/SamSamhuns/yolov5_export_cpu) - The project provides documentation on exporting YOLOv5 models for fast CPU inference using Intel's OpenVINO framework
 * [LidarObjectDetection-PointPillars](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/End-to-end-Workloads/LidarObjectDetection-PointPillars) (C++ based, requires AI toolkit and OpenVINO). demonstrates how to perform 3D object detection and classification using input data (point cloud) from a LIDAR sensor.
@@ -53,6 +54,6 @@ MANIPULATION PROGRAM)
 * [webnn-native](https://github.com/webmachinelearning/webnn-native)- WebNN Native is an implementation of the Web Neural Network API, providing building blocks, headers, and backends for ML platforms including DirectML, OpenVINO, and XNNPACK.
 
 ### Educational
-* [NTUST Edge AI 2023 Artificial Intelligence and Edge Computing Practice ](https://github.com/aiblockly/aixbroad_code_example) - Educational meterials about AI and Edge Computing Practice GNU IMAGE
+* [NTUST Edge AI 2023 Artificial Intelligence and Edge Computing Practice ](https://github.com/OmniXRI/NTUST_EdgeAI_2023) - Educational meterials about AI and Edge Computing Practice GNU IMAGE
 MANIPULATION PROGRAM
 
