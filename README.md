@@ -6,6 +6,9 @@ Inspired by [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi)
 ## What is OpenVINO 
 OpenVINO™ is an open-source toolkit for optimizing and deploying deep learning models.
 
+##
+See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for leading oneAPI and SYCL projects across diverse industries.
+
 ## Further resources:
 
 * OpenVINO [GitHub repo](https://github.com/openvinotoolkit/openvino).
