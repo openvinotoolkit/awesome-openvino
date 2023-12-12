@@ -31,6 +31,7 @@ See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for lea
 * [Fast SD](https://github.com/rupeshs/fastsdcpu) - FastSD CPU is a faster version of Stable Diffusion on CPU. Based on Latent Consistency Models.
 * [OpenVINO™ AI Plugins for GIMP](https://github.com/intel/openvino-ai-plugins-gimp) - Provides a set of OpenVINO based plugins that add AI features to GIMP (GNU IMAGE
 MANIPULATION PROGRAM)
+* [OpenVINO Code - VSCode extension for AI code completion with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/openvino_code) - VSCode extension for helping developers writing code with AI code assistant.
 * [Enhancing Customer Service with Real-Time Sentiment Analysis: Leveraging LLMs and OpenVINO for Instant Emotional Insights](https://github.com/samontab/llm_sentiment) - The integration of LLMs with sentiment analysis models, further optimised by OpenVINO.
 
 ### AI Computer Vision
@@ -55,6 +56,8 @@ MANIPULATION PROGRAM)
 ### Miscellaneous
 * [Shared Memory for AI inference](https://github.com/aiblockly/aixbroad_code_example) - Shared memory interface between OpenVINO and CODESYS. It allows to exchange variable between Control Application, written in IEC and OpenVINO Application, which performs inference
 * [webnn-native](https://github.com/webmachinelearning/webnn-native)- WebNN Native is an implementation of the Web Neural Network API, providing building blocks, headers, and backends for ML platforms including DirectML, OpenVINO, and XNNPACK.
+* [NVIDIA GPU Plugin](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/nvidia_plugin) - allows to perform deep neural networks inference on NVIDIA GPUs using CUDA, using OpenVINO API.
+* [Token Merging for Stable Diffusion running with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/token_merging) - An OpenVINO adopted version of Token Merging method.
 
 ### Educational
 * [NTUST Edge AI 2023 Artificial Intelligence and Edge Computing Practice ](https://github.com/OmniXRI/NTUST_EdgeAI_2023) - Educational meterials about AI and Edge Computing Practice GNU IMAGE
