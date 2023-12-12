@@ -20,6 +20,7 @@ See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for lea
 ## Table of content 
 1. [Generative AI](#Generative-AI)
 2. [AI Computer Vision](#AI-Computer-Vision)
+3. [AI Audio](#AI-Audio)
 4. [OpenVINO API extentions](#OpenVINO-API-extentions)
 5. [Miscellaneous](#Miscellaneous)
 6. [Educational](#Educational)
@@ -41,6 +42,8 @@ MANIPULATION PROGRAM)
 * [Image Processing with OpenVINO](https://github.com/AbhiLegend/Image-Processing-with-OpenVINO)
 * [Implementing GAN with OpenVINO](https://github.com/AbhiLegend/GanOpenVINO)
 
+### AI Audio
+* [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
   
 ### OpenVINO API extentions
 * [OpenVINO™ C# API](https://github.com/guojin-yan/OpenVINO-CSharp-API) 
