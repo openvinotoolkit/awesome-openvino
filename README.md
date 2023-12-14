@@ -41,7 +41,7 @@ MANIPULATION PROGRAM)
 * [Image Processing with OpenVINO](https://github.com/AbhiLegend/Image-Processing-with-OpenVINO)
 * [Implementing GAN with OpenVINO](https://github.com/AbhiLegend/GanOpenVINO)
 * [Pedestrian fall detection](https://github.com/guojin-yan/OpenVINO-CSharp-API/tree/csharp3.0/tutorial_examples/PP-Human_Fall_Detection) - Pedestrian fall detection. Deploying PP-Human based on OpenVINO C # API
-* [OpenVino Tennis Posture](https://github.com/salvino72/openvino-Tennis-Posture/) - Deciphering Tennis Posture with Artificial Intelligence
+* [OpenVINO Tennis Posture](https://github.com/salvino72/openvino-Tennis-Posture/) - Deciphering Tennis Posture with Artificial Intelligence
 
   
 ### OpenVINO API extentions
@@ -58,7 +58,7 @@ MANIPULATION PROGRAM)
 * [Shared Memory for AI inference](https://github.com/aiblockly/aixbroad_code_example) - Shared memory interface between OpenVINO and CODESYS. It allows to exchange variable between Control Application, written in IEC and OpenVINO Application, which performs inference
 * [webnn-native](https://github.com/webmachinelearning/webnn-native)- WebNN Native is an implementation of the Web Neural Network API, providing building blocks, headers, and backends for ML platforms including DirectML, OpenVINO, and XNNPACK.
 * [Drug Discovery “Lipophilicity” using OpenVINO toolkit](https://github.com/AbhiLegend/DrugDisOpenVINO)- Finding Lipophilicity of peptides, proteins and molecules.
-* [OpenVinoQuantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
+* [OpenVINO Quantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
 
 
 ### Educational
