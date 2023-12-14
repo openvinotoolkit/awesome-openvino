@@ -20,6 +20,7 @@ See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for lea
 ## Table of content 
 1. [Generative AI](#Generative-AI)
 2. [AI Computer Vision](#AI-Computer-Vision)
+3. [AI Audio](#AI-Audio)
 4. [OpenVINO API extentions](#OpenVINO-API-extentions)
 5. [Miscellaneous](#Miscellaneous)
 6. [Educational](#Educational)
@@ -31,6 +32,7 @@ See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for lea
 * [Fast SD](https://github.com/rupeshs/fastsdcpu) - FastSD CPU is a faster version of Stable Diffusion on CPU. Based on Latent Consistency Models.
 * [OpenVINO™ AI Plugins for GIMP](https://github.com/intel/openvino-ai-plugins-gimp) - Provides a set of OpenVINO based plugins that add AI features to GIMP (GNU IMAGE
 MANIPULATION PROGRAM)
+* [OpenVINO Code - VSCode extension for AI code completion with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/openvino_code) - VSCode extension for helping developers writing code with AI code assistant.
 * [Enhancing Customer Service with Real-Time Sentiment Analysis: Leveraging LLMs and OpenVINO for Instant Emotional Insights](https://github.com/samontab/llm_sentiment) - The integration of LLMs with sentiment analysis models, further optimised by OpenVINO.
 
 
@@ -40,14 +42,20 @@ MANIPULATION PROGRAM)
 * [LidarObjectDetection-PointPillars](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/End-to-end-Workloads/LidarObjectDetection-PointPillars) (C++ based, requires AI toolkit and OpenVINO). demonstrates how to perform 3D object detection and classification using input data (point cloud) from a LIDAR sensor.
 * [Image Processing with OpenVINO](https://github.com/AbhiLegend/Image-Processing-with-OpenVINO)
 * [Implementing GAN with OpenVINO](https://github.com/AbhiLegend/GanOpenVINO)
+* [RapidOCR](https://github.com/RapidAI/RapidOCR)
 * [Pedestrian fall detection](https://github.com/guojin-yan/OpenVINO-CSharp-API/tree/csharp3.0/tutorial_examples/PP-Human_Fall_Detection) - Pedestrian fall detection. Deploying PP-Human based on OpenVINO C # API
 * [OpenVINO Tennis Posture](https://github.com/salvino72/openvino-Tennis-Posture/) - Deciphering Tennis Posture with Artificial Intelligence
 
+
+### AI Audio
+* [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
   
 ### OpenVINO API extentions
 * [OpenVINO™ C# API](https://github.com/guojin-yan/OpenVINO-CSharp-API) 
 * [OpenVINO Java API](https://github.com/Hmm466/OpenVINO-Java-API)
-* [OpenVINO LabVIEW API](https://github.com/wangstoudamire/lv_yolov8_openvino) 
+* [OpenVINO LabVIEW API](https://github.com/wangstoudamire/lv_yolov8_openvino)
+* [OpenVINO.net](https://github.com/sdcb/OpenVINO.NET)
+* [OpenVINO-rs](https://github.com/intel/openvino-rs)
 
 
 ### openSUSE 
@@ -57,8 +65,11 @@ MANIPULATION PROGRAM)
 ### Miscellaneous
 * [Shared Memory for AI inference](https://github.com/aiblockly/aixbroad_code_example) - Shared memory interface between OpenVINO and CODESYS. It allows to exchange variable between Control Application, written in IEC and OpenVINO Application, which performs inference
 * [webnn-native](https://github.com/webmachinelearning/webnn-native)- WebNN Native is an implementation of the Web Neural Network API, providing building blocks, headers, and backends for ML platforms including DirectML, OpenVINO, and XNNPACK.
+* [NVIDIA GPU Plugin](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/nvidia_plugin) - allows to perform deep neural networks inference on NVIDIA GPUs using CUDA, using OpenVINO API.
+* [Token Merging for Stable Diffusion running with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/token_merging) - An OpenVINO adopted version of Token Merging method.
 * [Drug Discovery “Lipophilicity” using OpenVINO toolkit](https://github.com/AbhiLegend/DrugDisOpenVINO)- Finding Lipophilicity of peptides, proteins and molecules.
 * [OpenVINO Quantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
+
 
 
 ### Educational
