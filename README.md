@@ -35,6 +35,7 @@ MANIPULATION PROGRAM)
 * [OpenVINO Code - VSCode extension for AI code completion with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/openvino_code) - VSCode extension for helping developers writing code with AI code assistant.
 * [Enhancing Customer Service with Real-Time Sentiment Analysis: Leveraging LLMs and OpenVINO for Instant Emotional Insights](https://github.com/samontab/llm_sentiment) - The integration of LLMs with sentiment analysis models, further optimised by OpenVINO.
 
+
 ### AI Computer Vision
 * [BMW-IntelOpenVINO-Detection-Inference-API](https://github.com/BMW-InnovationLab/BMW-IntelOpenVINO-Detection-Inference-API) - This is a repository for an object detection inference API using OpenVINO, supporting both Windows and Linux operating systems
 * [yolov5_export_cpu](https://github.com/SamSamhuns/yolov5_export_cpu) - The project provides documentation on exporting YOLOv5 models for fast CPU inference using Intel's OpenVINO framework
@@ -42,6 +43,9 @@ MANIPULATION PROGRAM)
 * [Image Processing with OpenVINO](https://github.com/AbhiLegend/Image-Processing-with-OpenVINO)
 * [Implementing GAN with OpenVINO](https://github.com/AbhiLegend/GanOpenVINO)
 * [RapidOCR](https://github.com/RapidAI/RapidOCR)
+* [Pedestrian fall detection](https://github.com/guojin-yan/OpenVINO-CSharp-API/tree/csharp3.0/tutorial_examples/PP-Human_Fall_Detection) - Pedestrian fall detection. Deploying PP-Human based on OpenVINO C # API
+* [OpenVINO Tennis Posture](https://github.com/salvino72/openvino-Tennis-Posture/) - Deciphering Tennis Posture with Artificial Intelligence
+
 
 ### AI Audio
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
@@ -58,12 +62,15 @@ MANIPULATION PROGRAM)
 * [OpenVINO Support](https://en.opensuse.org/SDB:Install_OpenVINO)
 
 
-
 ### Miscellaneous
 * [Shared Memory for AI inference](https://github.com/aiblockly/aixbroad_code_example) - Shared memory interface between OpenVINO and CODESYS. It allows to exchange variable between Control Application, written in IEC and OpenVINO Application, which performs inference
 * [webnn-native](https://github.com/webmachinelearning/webnn-native)- WebNN Native is an implementation of the Web Neural Network API, providing building blocks, headers, and backends for ML platforms including DirectML, OpenVINO, and XNNPACK.
 * [NVIDIA GPU Plugin](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/nvidia_plugin) - allows to perform deep neural networks inference on NVIDIA GPUs using CUDA, using OpenVINO API.
 * [Token Merging for Stable Diffusion running with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/token_merging) - An OpenVINO adopted version of Token Merging method.
+* [Drug Discovery “Lipophilicity” using OpenVINO toolkit](https://github.com/AbhiLegend/DrugDisOpenVINO)- Finding Lipophilicity of peptides, proteins and molecules.
+* [OpenVINO Quantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
+
+
 
 ### Educational
 * [NTUST Edge AI 2023 Artificial Intelligence and Edge Computing Practice ](https://github.com/OmniXRI/NTUST_EdgeAI_2023) - Educational meterials about AI and Edge Computing Practice GNU IMAGE
