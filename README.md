@@ -68,6 +68,7 @@ MANIPULATION PROGRAM)
 * [Token Merging for Stable Diffusion running with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/token_merging) - An OpenVINO adopted version of Token Merging method.
 * [Drug Discovery “Lipophilicity” using OpenVINO toolkit](https://github.com/AbhiLegend/DrugDisOpenVINO)- Finding Lipophilicity of peptides, proteins and molecules.
 * [OpenVINO Quantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
+* [Simple Accuracy Benchmark for Optimized LLMs](https://github.com/andreyanufr/who_what_benchmark) - Simple and quick accuracy test for compressed, quantized, pruned, distilled LLMs from [NNCF](https://github.com/openvinotoolkit/nncf), Bitsandbytes, GPTQ, and BigDL-LLM.
 
 
 
