@@ -59,8 +59,7 @@ MANIPULATION PROGRAM)
 
 
 ### openSUSE 
-* [OpenVINO Support](https://en.opensuse.org/SDB:Install_OpenVINO)
-
+* [OpenVINO Support](https://en.opensuse.org/SDB:Install_OpenVINO) This initiative generated openVINO compatibility with the openSUSE Linux platform. Because dependencies were added to tools and libraries for software development using C/C++ and other compilation directives for the programming language.
 
 ### Miscellaneous
 * [Shared Memory for AI inference](https://github.com/aiblockly/aixbroad_code_example) - Shared memory interface between OpenVINO and CODESYS. It allows to exchange variable between Control Application, written in IEC and OpenVINO Application, which performs inference
