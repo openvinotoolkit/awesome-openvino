@@ -22,8 +22,10 @@ See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for lea
 2. [AI Computer Vision](#AI-Computer-Vision)
 3. [AI Audio](#AI-Audio)
 4. [OpenVINO API extentions](#OpenVINO-API-extentions)
-5. [Miscellaneous](#Miscellaneous)
-6. [Educational](#Educational)
+5. [Natural Language Processing](#Natural-Language-Processing)
+6. [Multimodal projects](#Multimodal-projects)
+7. [Miscellaneous](#Miscellaneous)
+8. [Educational](#Educational)
 
 
 ### Generative AI 
@@ -34,6 +36,10 @@ See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for lea
 MANIPULATION PROGRAM)
 * [OpenVINO Code - VSCode extension for AI code completion with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/openvino_code) - VSCode extension for helping developers writing code with AI code assistant.
 * [Enhancing Customer Service with Real-Time Sentiment Analysis: Leveraging LLMs and OpenVINO for Instant Emotional Insights](https://github.com/samontab/llm_sentiment) - The integration of LLMs with sentiment analysis models, further optimised by OpenVINO.
+* [OV_SD_CPP](https://github.com/yangsu2022/OV_SD_CPP) - The pure C++ text-to-image pipeline, driven by the OpenVINO native API for Stable Diffusion v1.5 with LMS Discrete Scheduler.
+* [QuickStyle](https://github.com/Y-T-G/QuickStyle) - A simple stylizing app utilizing OpenVINO to stylize common objects in images.
+* [QuickPainter](https://github.com/Y-T-G/QuickPainter) - A simple inpainting app utilizing OpenVINO to remove common objects from images.
+* [BlurAnything](https://github.com/Y-T-G/Blur-Anything) - An adaptation of the excellent Track Anything project which is in turn based on Meta's Segment Anything and XMem.
 
 
 ### AI Computer Vision
@@ -45,7 +51,23 @@ MANIPULATION PROGRAM)
 * [RapidOCR](https://github.com/RapidAI/RapidOCR)
 * [Pedestrian fall detection](https://github.com/guojin-yan/OpenVINO-CSharp-API/tree/csharp3.0/tutorial_examples/PP-Human_Fall_Detection) - Pedestrian fall detection. Deploying PP-Human based on OpenVINO C # API
 * [OpenVINO Tennis Posture](https://github.com/salvino72/openvino-Tennis-Posture/) - Deciphering Tennis Posture with Artificial Intelligence
-
+* [Cigarette Detection](https://github.com/Leviathanlzx/cgr_detection) - The project begins by YOLOv8-pose detecting human body positions and extracting skeletal information from images. Based on the skeletal poses, it assesses the elbow angles and the distance between hands and mouths for each individual. If successful, the RTDETR model is employed to detect cigarettes at the mouth zone.
+* [FastSAM_Awesome_OpenVINO](https://github.com/zhg-SZPT/FastSAM_Awsome_Openvino) - The Fast Segment Anything Model(FastSAM) is a CNN Segment Anything Model trained by only 2% of the SA-1B dataset published by SAM authors. The FastSAM achieve a comparable performance with the SAM method at 50× higher run-time speed.
+* [Computer Vision Models As Service](https://github.com/mohammad-oghli/CV-Models-Service) - implements different Computer Vision Deep Learning Models as a service.
+* [Dance-with: Dance with your friends with the right pose!](https://github.com/bgb10/dance-with) - Dance-with corrects your dance posture using multi-person OpenPose, 2D pose estimation Deep Learning model.
+* [Target-Person-Tracking-System](https://github.com/simpleis6est/Target-Person-Tracking-System) - Integration of face recognition and person tracking.
+* [Metin2 Bot](https://github.com/Tigerly1/metin2bot) - bots for video game Metin2.
+* [Machine control](https://github.com/5sControl/machine-control) - industrial machine surveillance system designed  to help increase efficiency of processes.
+* [MeetingCam](https://github.com/nengelmann/MeetingCam) - Run your AI and CV algorithms in online meetings such as Zoom, Meets or Teams!
+* [Virtual-Tryon](https://github.com/LZHMS/Virtual-Tryon) - Use AI to try on clothes with your pictures.
+* [DepthAI Experiments](https://github.com/njnrn/depthai-experiments) - A collections of projects done with DepthAI.
+* [Project Babble](https://github.com/SummerSigh/ProjectBabble) - Mouth tracking project designed to work with any existing VR headset.
+* [Group Pose](https://github.com/Michel-liu/GroupPose-Paddle) - A Simple Baseline for End-to-End Multi-person Pose Estimation.
+* [Frigate](https://github.com/blakeblackshear/frigate) - NVR With Realtime Object Detection for IP Cameras.
+* [CGD OpenVINO Demo](https://github.com/sammysun0711/CGD_OpenVINO_Demo) - Efficient Inference and Quantization of CGD for Image Retrieval.
+* [Risk package detection](https://github.com/AJV009/risk-package-detection) - Threat Detection and Unattended Baggage Detection with Associated Person Tracking.
+* [YOLOv7-Intel](https://github.com/karnikkanojia/yolov7-intel) - Object Detection For Autonomous Vehicles.
+* [Cerberus](https://github.com/gerardocipriano/Cerberus-Dog-Breed-Classification-and-Body-Localization-PyTorch) - Dog Breed Classification and Body Localization.
 
 ### AI Audio
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
@@ -57,6 +79,15 @@ MANIPULATION PROGRAM)
 * [OpenVINO.net](https://github.com/sdcb/OpenVINO.NET)
 * [OpenVINO-rs](https://github.com/intel/openvino-rs)
 
+### Natural Language Processing
+* [Japanese chatbot Youri](https://github.com/yas-sim/openvino_japanese_chatbot_youri-7b-chat) - LLM Japanese chatbot demo program using Intel OpenVINO toolkit.
+* [OpenVINO GPT-Neo](https://github.com/yousseb/ov-gpt-neo) - a port of GPT-Neo that uses OpenVINO.
+* [Resume-Based Interview Preparation Tool](https://github.com/serinryu/interviewhelper_openvino) - The Resume-Based Interview Preparation Tool is a software application designed to streamline the interview process by helping interviewers generate relevant and meaningful questions based on a candidate's resume or portfolio page.
+
+### Multimodal projects
+* [Scene Explorer for kids](https://github.com/AJV009/explore-scene-w-object-detection) - Integration of a chat bot with an object detection algorithm.
+* [Indoor Care Chatbot](https://github.com/AJV009/indoor-care-chatbot) - An Elderly Indoor Care Chatbot with an object detection algorithm.
+* [SA2](https://github.com/LHBuilder/SA-Segment-Anything) - Vision-Oriented MultiModal AI.
 
 ### openSUSE 
 * [OpenVINO Support](https://en.opensuse.org/SDB:Install_OpenVINO) This initiative generated openVINO compatibility with the openSUSE Linux platform. Because dependencies were added to tools and libraries for software development using C/C++ and other compilation directives for the programming language.
@@ -69,7 +100,8 @@ MANIPULATION PROGRAM)
 * [Drug Discovery “Lipophilicity” using OpenVINO toolkit](https://github.com/AbhiLegend/DrugDisOpenVINO)- Finding Lipophilicity of peptides, proteins and molecules.
 * [OpenVINO Quantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
 * [who_what_benchmark](https://github.com/andreyanufr/who_what_benchmark) - Simple and quick accuracy test for compressed, quantized, pruned, distilled LLMs from [NNCF](https://github.com/openvinotoolkit/nncf), Bitsandbytes, GPTQ, and BigDL-LLM.
-
+* [OpenVINO with Docker](https://github.com/jonathanyeh0723/openvino-with-docker) - Dockerizing OpenVINO applications.
+* [OpenVINO AICG Samples](https://github.com/sammysun0711/OpenVINO_AIGC_Samples) - A collection of samples for NLP and Image Generation.
 
 
 ### Educational
