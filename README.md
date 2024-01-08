@@ -40,7 +40,8 @@ MANIPULATION PROGRAM)
 * [QuickStyle](https://github.com/Y-T-G/QuickStyle) - A simple stylizing app utilizing OpenVINO to stylize common objects in images.
 * [QuickPainter](https://github.com/Y-T-G/QuickPainter) - A simple inpainting app utilizing OpenVINO to remove common objects from images.
 * [BlurAnything](https://github.com/Y-T-G/Blur-Anything) - An adaptation of the excellent Track Anything project which is in turn based on Meta's Segment Anything and XMem.
-
+* [Stable Diffusion 2.1 on Intel ARC](https://github.com/jfsunx/OVSD21) - A simple and easy-to-use demo to run Stable Diffusion 2.1 for Intel ARC graphics card based on OpenVINO.
+* [AI Video Builder](https://github.com/jediknight813/ai_video_builder) - Make videos with AI images from YouTube videos.
 
 ### AI Computer Vision
 * [BMW-IntelOpenVINO-Detection-Inference-API](https://github.com/BMW-InnovationLab/BMW-IntelOpenVINO-Detection-Inference-API) - This is a repository for an object detection inference API using OpenVINO, supporting both Windows and Linux operating systems
@@ -68,6 +69,8 @@ MANIPULATION PROGRAM)
 * [Risk package detection](https://github.com/AJV009/risk-package-detection) - Threat Detection and Unattended Baggage Detection with Associated Person Tracking.
 * [YOLOv7-Intel](https://github.com/karnikkanojia/yolov7-intel) - Object Detection For Autonomous Vehicles.
 * [Cerberus](https://github.com/gerardocipriano/Cerberus-Dog-Breed-Classification-and-Body-Localization-PyTorch) - Dog Breed Classification and Body Localization.
+* [Criminal Activity recognition](https://github.com/ayush9304/Criminal-Activity-Video-Surveillance-using-Deep-Learning) - Criminal Activity Video Surveillance.
+* [RapidOCR on OpenVINO GPU](https://github.com/jaggiK/rapidocr_openvinogpu) - A modified verison of RapidOCR to support OpenVINO GPU.
 
 ### AI Audio
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
@@ -102,6 +105,7 @@ MANIPULATION PROGRAM)
 * [who_what_benchmark](https://github.com/andreyanufr/who_what_benchmark) - Simple and quick accuracy test for compressed, quantized, pruned, distilled LLMs from [NNCF](https://github.com/openvinotoolkit/nncf), Bitsandbytes, GPTQ, and BigDL-LLM.
 * [OpenVINO with Docker](https://github.com/jonathanyeh0723/openvino-with-docker) - Dockerizing OpenVINO applications.
 * [OpenVINO AICG Samples](https://github.com/sammysun0711/OpenVINO_AIGC_Samples) - A collection of samples for NLP and Image Generation.
+* [OpenVINO Model Server k8s Terraform](https://github.com/dummyuser42/openvino-model-server-k8s-terraform) - Deploying Kubernetes cluster via Terraform as well as deploying and hosting a OpenVINO Model Server on it.
 
 
 ### Educational
