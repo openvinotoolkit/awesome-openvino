@@ -1,13 +1,16 @@
 # Awesome OpenVINO ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-A curated list of OpenVINO based AI projects. The most exciting community projects based on OpenVINO are highlighted here. If you want your project to appear in this list, please create a Pull Request or contact @DimaPastushenkov. 
+A curated list of OpenVINO based AI projects. The most exciting community projects based on OpenVINO are highlighted here. Explore a rich assortment of OpenVINO-based projects, libraries, and tutorials that cover a wide range of topics, from model optimization and deployment to real-world applications in various industries. 
+
+This repository is a collaborative effort, continuously updated to provide you with the latest and most valuable resources for maximizing the potential of OpenVINO in your projects. If you want your project to appear in this list, please create a Pull Request or contact @DimaPastushenkov. 
 Inspired by [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi)
 
 ## What is OpenVINO 
-OpenVINO™ is an open-source toolkit for optimizing and deploying deep learning models.
+OpenVINO™ is an open-source toolkit for AI inference optimization and deployment.
+* Enhances deep learning performance in computer vision, automatic speech recognition, natural language processing, and other common tasks. 
+* Utilize models trained with popular frameworks such as TensorFlow and PyTorch while efficiently reducing resource demands. 
+* Deploy seamlessly across a spectrum of Intel® platforms, spanning from edge to cloud.
 
-##
-See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for leading oneAPI and SYCL projects across diverse industries.
 
 ## Further resources:
 
@@ -16,6 +19,7 @@ See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for lea
 * To download OpenVINO toolkit, go [here](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html).
 
 * A collection of ready-to-run Jupyter notebooks for learning and experimenting with the OpenVINO™ toolkit- [OpenVINO Notebooks](https://github.com/openvinotoolkit/openvino_notebooks).
+  
 
 ## Table of content 
 1. [Generative AI](#Generative-AI)
@@ -95,6 +99,10 @@ MANIPULATION PROGRAM)
 ### openSUSE 
 * [OpenVINO Support](https://en.opensuse.org/SDB:Install_OpenVINO) This initiative generated openVINO compatibility with the openSUSE Linux platform. Because dependencies were added to tools and libraries for software development using C/C++ and other compilation directives for the programming language.
 
+### Educational
+* [NTUST Edge AI 2023 Artificial Intelligence and Edge Computing Practice ](https://github.com/OmniXRI/NTUST_EdgeAI_2023) - Educational meterials about AI and Edge Computing Practice GNU IMAGE
+MANIPULATION PROGRAM
+
 ### Miscellaneous
 * [Shared Memory for AI inference](https://github.com/aiblockly/aixbroad_code_example) - Shared memory interface between OpenVINO and CODESYS. It allows to exchange variable between Control Application, written in IEC and OpenVINO Application, which performs inference
 * [webnn-native](https://github.com/webmachinelearning/webnn-native)- WebNN Native is an implementation of the Web Neural Network API, providing building blocks, headers, and backends for ML platforms including DirectML, OpenVINO, and XNNPACK.
@@ -108,7 +116,5 @@ MANIPULATION PROGRAM)
 * [OpenVINO Model Server k8s Terraform](https://github.com/dummyuser42/openvino-model-server-k8s-terraform) - Deploying Kubernetes cluster via Terraform as well as deploying and hosting a OpenVINO Model Server on it.
 
 
-### Educational
-* [NTUST Edge AI 2023 Artificial Intelligence and Edge Computing Practice ](https://github.com/OmniXRI/NTUST_EdgeAI_2023) - Educational meterials about AI and Edge Computing Practice GNU IMAGE
-MANIPULATION PROGRAM
-
+### Related Communities
+See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for leading oneAPI and SYCL projects across diverse industries.
