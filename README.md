@@ -85,6 +85,10 @@ MANIPULATION PROGRAM)
 * [OpenVINO LabVIEW API](https://github.com/wangstoudamire/lv_yolov8_openvino)
 * [OpenVINO.net](https://github.com/sdcb/OpenVINO.NET)
 * [OpenVINO-rs](https://github.com/intel/openvino-rs)
+* [OpenVINO-GO Client](https://github.com/AbhiLegend/DrugDiscoveryModelServingGOLang)
+* [OpenVINO-GO Client](https://github.com/AbhiLegend/DrugDiscoveryLiphophilicity)
+* [OpenVINO-GO Client](https://github.com/AbhiLegend/OpenVINOBlur)
+
 
 ### Natural Language Processing
 * [Japanese chatbot Youri](https://github.com/yas-sim/openvino_japanese_chatbot_youri-7b-chat) - LLM Japanese chatbot demo program using Intel OpenVINO toolkit.
