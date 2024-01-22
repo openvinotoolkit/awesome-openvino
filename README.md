@@ -85,9 +85,8 @@ MANIPULATION PROGRAM)
 * [OpenVINO LabVIEW API](https://github.com/wangstoudamire/lv_yolov8_openvino)
 * [OpenVINO.net](https://github.com/sdcb/OpenVINO.NET)
 * [OpenVINO-rs](https://github.com/intel/openvino-rs)
-* [OpenVINO-GO Client](https://github.com/AbhiLegend/DrugDiscoveryModelServingGOLang)
-* [OpenVINO-GO Client](https://github.com/AbhiLegend/DrugDiscoveryLiphophilicity)
-* [OpenVINO-GO Client](https://github.com/AbhiLegend/OpenVINOBlur)
+* [OpenVINO-GO Client](https://github.com/AbhiLegend/DrugLiphphilicty) - The end goal is to utilize a Go client to facilitate user-friendly batch processing of molecular data, interfacing with a Flask server that employs OpenVINO for optimized lipophilicity predictions and molecular visualization
+
 
 
 ### Natural Language Processing
