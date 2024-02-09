@@ -49,7 +49,6 @@ MANIPULATION PROGRAM)
 * [BlurAnything](https://github.com/Y-T-G/Blur-Anything) - An adaptation of the excellent Track Anything project which is in turn based on Meta's Segment Anything and XMem.
 * [Stable Diffusion 2.1 on Intel ARC](https://github.com/jfsunx/OVSD21) - A simple and easy-to-use demo to run Stable Diffusion 2.1 for Intel ARC graphics card based on OpenVINO.
 * [AI Video Builder](https://github.com/jediknight813/ai_video_builder) - Make videos with AI images from YouTube videos.
-* [Fast Stable Diffusion and OpenVINO](https://nolowiz.com/fast-stable-diffusion-on-cpu-using-fastsd-cpu-and-openvino/) - Blog post about fast Stable Diffusion on CPU using FastSD and OpenVINO.
 
 ### AI Computer Vision
 * [BMW-IntelOpenVINO-Detection-Inference-API](https://github.com/BMW-InnovationLab/BMW-IntelOpenVINO-Detection-Inference-API) - This is a repository for an object detection inference API using OpenVINO, supporting both Windows and Linux operating systems
