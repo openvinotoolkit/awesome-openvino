@@ -5,6 +5,9 @@ A curated list of OpenVINO based AI projects. The most exciting community projec
 This repository is a collaborative effort, continuously updated to provide you with the latest and most valuable resources for maximizing the potential of OpenVINO in your projects. If you want your project to appear in this list, please create a Pull Request or contact @DimaPastushenkov. 
 Inspired by [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi)
 
+If your project is featured in this Awesome OpenVINO list, you are welcome to use the 'Mentioned in Awesome' badge on your project's repository. [![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
+
+
 ## What is OpenVINO 
 OpenVINO™ is an open-source toolkit for AI inference optimization and deployment.
 * Enhances deep learning performance in computer vision, automatic speech recognition, natural language processing, and other common tasks. 
