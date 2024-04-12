@@ -78,6 +78,7 @@ MANIPULATION PROGRAM)
 * [Cerberus](https://github.com/gerardocipriano/Cerberus-Dog-Breed-Classification-and-Body-Localization-PyTorch) - Dog Breed Classification and Body Localization.
 * [Criminal Activity recognition](https://github.com/ayush9304/Criminal-Activity-Video-Surveillance-using-Deep-Learning) - Criminal Activity Video Surveillance.
 * [RapidOCR on OpenVINO GPU](https://github.com/jaggiK/rapidocr_openvinogpu) - A modified verison of RapidOCR to support OpenVINO GPU.
+* [OpenVINO-Deploy](https://github.com/wxxz975/OpenVINO-Deploy) - A repository showcasing the deployment of popular object detection AI algorithms using the OpenVINO C++ API for efficient inference.
 
 ### AI Audio
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
