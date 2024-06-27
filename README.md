@@ -122,6 +122,7 @@ MANIPULATION PROGRAM
 * [OpenVINO AICG Samples](https://github.com/sammysun0711/OpenVINO_AIGC_Samples) - A collection of samples for NLP and Image Generation.
 * [OpenVINO Model Server k8s Terraform](https://github.com/dummyuser42/openvino-model-server-k8s-terraform) - Deploying Kubernetes cluster via Terraform as well as deploying and hosting a OpenVINO Model Server on it.
 
+* [Application of Vision Language Models with ROS 2](https://github.com/nilutpolkashyap/vlms_with_ros2_workshop) -  Dives into vision-language models for Robotics applications using ROS 2 and Intel OpenVINO toolkit.
 
 ### Related Communities
 See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for leading oneAPI and SYCL projects across diverse industries.
