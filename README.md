@@ -51,6 +51,7 @@ MANIPULATION PROGRAM)
 * [AI Video Builder](https://github.com/jediknight813/ai_video_builder) - Make videos with AI images from YouTube videos.
 
 ### AI Computer Vision
+* [Visioncom](https://github.com/cabelo/visioncom) Visioncom is based in open_model_zoo projetct demo, the assisted communication system employs advanced computer vision technologies, using the OpenCV and OpenVINO libraries, to provide an interactive solution for patients with Amyotrophic Lateral Sclerosis (ALS).
 * [BMW-IntelOpenVINO-Detection-Inference-API](https://github.com/BMW-InnovationLab/BMW-IntelOpenVINO-Detection-Inference-API) - This is a repository for an object detection inference API using OpenVINO, supporting both Windows and Linux operating systems
 * [yolov5_export_cpu](https://github.com/SamSamhuns/yolov5_export_cpu) - The project provides documentation on exporting YOLOv5 models for fast CPU inference using Intel's OpenVINO framework
 * [LidarObjectDetection-PointPillars](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/End-to-end-Workloads/LidarObjectDetection-PointPillars) (C++ based, requires AI toolkit and OpenVINO). demonstrates how to perform 3D object detection and classification using input data (point cloud) from a LIDAR sensor.
