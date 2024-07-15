@@ -132,3 +132,6 @@ MANIPULATION PROGRAM
 
 ### Related Communities
 See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for leading oneAPI and SYCL projects across diverse industries.
+
+OpenVINO takes advantage of the discrete GPUs using Intel oneAPI, an open programming model for multiarchitecture programming. The [oneAPI-samples
+repository](https://github.com/oneapi-src/oneAPI-samples) demonstrates the performance and productivity offered by Intel oneAPI and its toolkits such as oneDNN in a multi-architecture environment.
