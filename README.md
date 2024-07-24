@@ -49,6 +49,8 @@ MANIPULATION PROGRAM)
 * [BlurAnything](https://github.com/Y-T-G/Blur-Anything) - An adaptation of the excellent Track Anything project which is in turn based on Meta's Segment Anything and XMem.
 * [Stable Diffusion 2.1 on Intel ARC](https://github.com/jfsunx/OVSD21) - A simple and easy-to-use demo to run Stable Diffusion 2.1 for Intel ARC graphics card based on OpenVINO.
 * [AI Video Builder](https://github.com/jediknight813/ai_video_builder) - Make videos with AI images from YouTube videos.
+* [LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the free, Open Source OpenAI alternative. LocalAI act as a drop-in replacement REST API that’s compatible with OpenAI (Elevenlabs, Anthropic... ) API specifications for local AI inferencing.
+
 
 ### AI Computer Vision
 * [Visioncom](https://github.com/cabelo/visioncom) Visioncom is based on open_model_zoo project demo, the assisted communication system employs advanced computer vision technologies, using the OpenCV and OpenVINO libraries, to provide an interactive solution for patients with Amyotrophic Lateral Sclerosis (ALS).
