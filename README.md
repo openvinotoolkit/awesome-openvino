@@ -87,6 +87,7 @@ MANIPULATION PROGRAM)
 
 ### AI Audio
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
+* [Sangeet Guru](https://github.com/TABREZ-96/Sangeet_Guru) - A music generation app where users input a music style description to get custom audio tracks.
   
 ### OpenVINO API extentions
 * [OpenVINO™ C# API](https://github.com/guojin-yan/OpenVINO-CSharp-API) 
