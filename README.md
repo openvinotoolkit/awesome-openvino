@@ -51,6 +51,9 @@ MANIPULATION PROGRAM)
 * [AI Video Builder](https://github.com/jediknight813/ai_video_builder) - Make videos with AI images from YouTube videos.
 
 ### AI Computer Vision
+
+* [VisionGuard](https://github.com/inbasperu/VisionGuard) - A desktop application designed for AI PCs to combat eye strain through real-time gaze tracking, developed during GSoC 2024 under the OpenVINO Toolkit. Built on OpenVINO's gaze estimation demo, VisionGuard offers customizable break reminders, screen time analytics, and multi-device support (CPU/GPU/NPU). It features an intuitive UI with system tray integration, leveraging OpenVINO, Qt, and OpenCV for efficient, privacy-focused local processing.
+
 * [Visioncom](https://github.com/cabelo/visioncom) Visioncom is based on open_model_zoo project demo, the assisted communication system employs advanced computer vision technologies, using the OpenCV and OpenVINO libraries, to provide an interactive solution for patients with Amyotrophic Lateral Sclerosis (ALS).
 * [BMW-IntelOpenVINO-Detection-Inference-API](https://github.com/BMW-InnovationLab/BMW-IntelOpenVINO-Detection-Inference-API) - This is a repository for an object detection inference API using OpenVINO, supporting both Windows and Linux operating systems
 * [yolov5_export_cpu](https://github.com/SamSamhuns/yolov5_export_cpu) - The project provides documentation on exporting YOLOv5 models for fast CPU inference using Intel's OpenVINO framework
