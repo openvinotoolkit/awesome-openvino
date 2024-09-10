@@ -36,6 +36,7 @@ OpenVINO™ is an open-source toolkit for AI inference optimization and deployme
 
 
 ### Generative AI 
+* [MED-LLM-BR-OpenVINO](https://github.com/cabelo/MED-LLM-BR-openvino) - These models were specially developed for the clinical context in Brazilian Portuguese, proving to be efficient in generating synthetic clinical data. The models are essential not only for direct applications in healthcare, but also for training larger models, overcoming the difficulty in accessing patient record data.
 * [Stable Diffusion web UI](https://github.com/openvinotoolkit/stable-diffusion-webui/) - This is a repository for a browser interface based on Gradio library for Stable Diffusion
 * [stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - This GitHub project provides an implementation of text-to-image generation using stable diffusion on Intel CPU or GPU. It requires Python 3.9.0 and is compatible with OpenVINO.
 * [Fast SD](https://github.com/rupeshs/fastsdcpu) - FastSD CPU is a faster version of Stable Diffusion on CPU. Based on Latent Consistency Models and Adversarial Diffusion Distillation.[Read blog post about Fast Stable Diffusion on CPU using FastSD and OpenVINO.](https://nolowiz.com/fast-stable-diffusion-on-cpu-using-fastsd-cpu-and-openvino/)
