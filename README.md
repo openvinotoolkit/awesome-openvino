@@ -121,7 +121,7 @@ MANIPULATION PROGRAM
 
 ### Miscellaneous
 
-* [The Power of Florence-2 with OpenVINO & FiftyOne: Real-World Applications in Image Analysis](https://medium.com/@condadoslgpc/the-power-of-florence-2-with-openvino-fiftyone-real-world-applications-in-image-analysis-b931fd8adb44) - Technical Guide with Source Code: Highlighting the Power and Flexibility of Using OpenVINO, Florence-2, and FiftyOne to Efficiently Create, Annotate, Explore, and Curate a Computer Vision Dataset.
+* [The Power of Florence-2 with OpenVINO & FiftyOne: Real-World Applications in Image Analysis](https://github.com/Gabriellgpc/computer-vision-dataset-maker.git) - Highlighting the Power and Flexibility of Using OpenVINO, Florence-2, and FiftyOne to Efficiently Create, Annotate, Explore, and Curate a Computer Vision Dataset.
 
 * [JAX: Artificial Intelligence for everyone.](https://github.com/cabelo/jax) - JAX (Just an Artificial Intelligence Extended) is an optimized version of the openSUSE Linux image to work with openVINO. This platform was designed to facilitate the access and development of AI applications.
 * [Shared Memory for AI inference](https://github.com/aiblockly/aixbroad_code_example) - Shared memory interface between OpenVINO and CODESYS. It allows to exchange variable between Control Application, written in IEC and OpenVINO Application, which performs inference
