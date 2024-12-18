@@ -26,13 +26,14 @@ OpenVINO™ is an open-source toolkit for AI inference optimization and deployme
 
 ## Table of content 
 1. [Generative AI](#Generative-AI)
-2. [AI Computer Vision](#AI-Computer-Vision)
-3. [AI Audio](#AI-Audio)
-4. [OpenVINO API extentions](#OpenVINO-API-extentions)
-5. [Natural Language Processing](#Natural-Language-Processing)
-6. [Multimodal projects](#Multimodal-projects)
-7. [Miscellaneous](#Miscellaneous)
-8. [Educational](#Educational)
+2. [Frameworks](#Frameworks)
+3. [AI Computer Vision](#AI-Computer-Vision)
+4. [AI Audio](#AI-Audio)
+5. [OpenVINO API extentions](#OpenVINO-API-extentions)
+6. [Natural Language Processing](#Natural-Language-Processing)
+7. [Multimodal projects](#Multimodal-projects)
+8. [Miscellaneous](#Miscellaneous)
+9. [Educational](#Educational)
 
 
 ### Generative AI 
@@ -56,6 +57,8 @@ MANIPULATION PROGRAM)
 * [Gemma2-2b AI Chat App](https://github.com/fabiomatricardi/OpenVINO-Gemma2B-streamlit) - A beautiful Chat Interface, with interactive tuning parameters, powered by Optimum-Intel[openvino], Streamlit and the small but powerful Gemma2-2b-instruct model by Google. The model is an int4 quantized version, hosted on Hugging Face Hub.
 * [LaMini Power](https://github.com/fabiomatricardi/openvino-Lamini) - An experimental text based chat interface in the terminal running the [LaMini-Flan-T5-248M](https://github.com/mbzuai-nlp/lamini-lm/) . This is a breakthrough made possible by openvino, because encoder-decoder model could not be quantized. The LaMini model family is a highly curated herd of very small models achieving strong accuracy even with only 512 tokens of context length.
 
+### Frameworks
+* [Keras 3](https://github.com/keras-team/keras) - Keras 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, NumPy and OpenVINO. User can switch on OpenVINO backend for models inference using Keras API.
 
 ### AI Computer Vision
 
