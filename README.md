@@ -140,6 +140,7 @@ MANIPULATION PROGRAM
 * [NVIDIA GPU Plugin](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/nvidia_plugin) - allows to perform deep neural networks inference on NVIDIA GPUs using CUDA, using OpenVINO API.
 * [Token Merging for Stable Diffusion running with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/token_merging) - An OpenVINO adopted version of Token Merging method.
 * [Drug Discovery “Lipophilicity” using OpenVINO toolkit](https://github.com/AbhiLegend/DrugDisOpenVINO)- Finding Lipophilicity of peptides, proteins and molecules.
+* [Drug Discovery “Openshift and Pytorch” using OpenVINO toolkit]([https://github.com/AbhiLegend/DrugDisOpenVINO](https://github.com/AbhiLegend/AIDrugDiscoveryOpenVINO)-The complete Drug Discovery Pipeline using OpenVINO,IPEX,RAG on Red HAT OpenshiftAI Sandboxed environment.
 * [OpenVINO Quantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
 * [who_what_benchmark](https://github.com/andreyanufr/who_what_benchmark) - Simple and quick accuracy test for compressed, quantized, pruned, distilled LLMs from [NNCF](https://github.com/openvinotoolkit/nncf), Bitsandbytes, GPTQ, and BigDL-LLM.
 * [OpenVINO with Docker](https://github.com/jonathanyeh0723/openvino-with-docker) - Dockerizing OpenVINO applications.
