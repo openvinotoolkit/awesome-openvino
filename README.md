@@ -41,6 +41,7 @@ OpenVINO™ is an open-source toolkit for AI inference optimization and deployme
 * [Stable Diffusion web UI](https://github.com/openvinotoolkit/stable-diffusion-webui/) - This is a repository for a browser interface based on Gradio library for Stable Diffusion
 * [stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - This GitHub project provides an implementation of text-to-image generation using stable diffusion on Intel CPU or GPU. It requires Python 3.9.0 and is compatible with OpenVINO.
 * [Fast SD](https://github.com/rupeshs/fastsdcpu) - FastSD CPU is a faster version of Stable Diffusion on CPU. Based on Latent Consistency Models and Adversarial Diffusion Distillation.[Read blog post about Fast Stable Diffusion on CPU using FastSD and OpenVINO.](https://nolowiz.com/fast-stable-diffusion-on-cpu-using-fastsd-cpu-and-openvino/)
+Follow the step-by-step guide to seamlessly integrate [ComfyUI with FastSD and OpenVINO](https://nolowiz.com/how-to-use-comfyui-with-fastsdcpu-and-openvino/).
 * [OpenVINO™ AI Plugins for GIMP](https://github.com/intel/openvino-ai-plugins-gimp) - Provides a set of OpenVINO based plugins that add AI features to GIMP (GNU IMAGE
 MANIPULATION PROGRAM)
 * [OpenVINO Code - VSCode extension for AI code completion with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/openvino_code) - VSCode extension for helping developers writing code with AI code assistant.
