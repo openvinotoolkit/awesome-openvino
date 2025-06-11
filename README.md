@@ -130,7 +130,8 @@ MANIPULATION PROGRAM)
 ### Educational
 * [NTUST Edge AI 2023 Artificial Intelligence and Edge Computing Practice ](https://github.com/OmniXRI/NTUST_EdgeAI_2023) - Educational meterials about AI and Edge Computing Practice GNU IMAGE
 MANIPULATION PROGRAM
-
+* [OpenVINO Handbook](https://github.com/openvino-book/openvino_handbook/blob/main/README_en.md) - A Published [OpenVIVO Handbook](https://item.jd.com/10150500500024.html) in Chinese to help the AI developer to learn OpenVINO from the scratch.
+  
 ### Miscellaneous
 
 * [The Power of Florence-2 with OpenVINO & FiftyOne: Real-World Applications in Image Analysis](https://github.com/Gabriellgpc/computer-vision-dataset-maker.git) - Highlighting the Power and Flexibility of Using OpenVINO, Florence-2, and FiftyOne to Efficiently Create, Annotate, Explore, and Curate a Computer Vision Dataset.
