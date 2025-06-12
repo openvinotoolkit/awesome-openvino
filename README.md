@@ -46,6 +46,7 @@ Follow the step-by-step guide to seamlessly integrate [ComfyUI with FastSD and O
 MANIPULATION PROGRAM)
 * [OpenVINO Code - VSCode extension for AI code completion with OpenVINO](https://github.com/openvinotoolkit/openvino_contrib/tree/master/modules/openvino_code) - VSCode extension for helping developers writing code with AI code assistant.
 * [Enhancing Customer Service with Real-Time Sentiment Analysis: Leveraging LLMs and OpenVINO for Instant Emotional Insights](https://github.com/samontab/llm_sentiment) - The integration of LLMs with sentiment analysis models, further optimised by OpenVINO.
+* [Introducing Simple Image Generator](https://samontab.itch.io/simple-image-generator/devlog/896084/introducing-simple-image-generator) - Create Amazing Images on Your Computer. No Internet, No GPU, No Subscriptions!.
 * [OV_SD_CPP](https://github.com/yangsu2022/OV_SD_CPP) - The pure C++ text-to-image pipeline, driven by the OpenVINO native API for Stable Diffusion v1.5 with LMS Discrete Scheduler.
 * [QuickStyle](https://github.com/Y-T-G/QuickStyle) - A simple stylizing app utilizing OpenVINO to stylize common objects in images.
 * [QuickPainter](https://github.com/Y-T-G/QuickPainter) - A simple inpainting app utilizing OpenVINO to remove common objects from images.
@@ -135,7 +136,7 @@ MANIPULATION PROGRAM
 ### Miscellaneous
 
 * [The Power of Florence-2 with OpenVINO & FiftyOne: Real-World Applications in Image Analysis](https://github.com/Gabriellgpc/computer-vision-dataset-maker.git) - Highlighting the Power and Flexibility of Using OpenVINO, Florence-2, and FiftyOne to Efficiently Create, Annotate, Explore, and Curate a Computer Vision Dataset.
-
+* [From CPU to NPU: The Secret to ~15x Faster AI on Intel’s Latest Chips](https://www.samontab.com/web/2025/02/from-cpu-to-npu-the-secret-to-15x-faster-ai-on-intels-latest-chips/) - This post discusses Intel's new Neural Processing Unit (NPU) chips, which provide a significant performance boost for AI and machine learning tasks compared to regular CPUs, and provides steps for testing its capabilities using OpenVINO.
 * [JAX: Artificial Intelligence for everyone.](https://github.com/cabelo/jax) - JAX (Just an Artificial Intelligence Extended) is an optimized version of the openSUSE Linux image to work with openVINO. This platform was designed to facilitate the access and development of AI applications.
 * [Shared Memory for AI inference](https://github.com/aiblockly/aixbroad_code_example) - Shared memory interface between OpenVINO and CODESYS. It allows to exchange variable between Control Application, written in IEC and OpenVINO Application, which performs inference
 * [webnn-native](https://github.com/webmachinelearning/webnn-native)- WebNN Native is an implementation of the Web Neural Network API, providing building blocks, headers, and backends for ML platforms including DirectML, OpenVINO, and XNNPACK.
