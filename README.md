@@ -34,6 +34,7 @@ OpenVINO™ is an open-source toolkit for AI inference optimization and deployme
 7. [Multimodal projects](#Multimodal-projects)
 8. [Miscellaneous](#Miscellaneous)
 9. [Educational](#Educational)
+10. [Robotics](#Robotics)
 
 
 ### Generative AI 
@@ -60,9 +61,15 @@ MANIPULATION PROGRAM)
 * [LaMini Power](https://github.com/fabiomatricardi/openvino-Lamini) - An experimental text based chat interface in the terminal running the [LaMini-Flan-T5-248M](https://github.com/mbzuai-nlp/lamini-lm/) . This is a breakthrough made possible by openvino, because encoder-decoder model could not be quantized. The LaMini model family is a highly curated herd of very small models achieving strong accuracy even with only 512 tokens of context length.
 * [OpenVINO OpenAI API](https://pypi.org/project/openvino-openai-api/) - An OpenAI-compatible API server powered by OpenVINO GenAI for efficient inference on Intel hardware. OpenAI API compatibility for easy integration with existing applications, Powered by OpenVINO for optimized inference on Intel CPUs and GPUs, Support for both streaming and non-streaming responses, Simple command-line interface for launching the server. Easy installation with `pip install openvino-openai-api`. The project is created with AI coding assistance. You can read the journey and steps in the following 3 articles: [part 1](https://pub.towardsai.net/i-created-an-openai-api-server-because-there-wasnt-one-749a33ea90e0?sk=616682e2bec5f1194295a17cc0bb7f52), [part 2](https://pub.towardsai.net/i-created-an-ai-server-with-python-and-5-amazing-features-part-2-bde233681e4e?sk=c7e01ab57e7809388720d17855b88217) and [part 3](https://pub.towardsai.net/openvino-genai-api-server-from-ai-coding-to-pip-package-part-3-da7ab34a34e4?sk=3e98fc5ce1da18dd38d2124ec1603235)
 * [Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab) - Podman AI Lab is an open source extension for Podman Desktop to work with LLMs (Large Language Models) on a local environment using the OpenVINO model server. Featuring a recipe catalog with common AI use cases, a curated set of open source models, and a playground for learning, prototyping and experimentation, Podman AI Lab helps you to quickly and easily get started bringing AI into your applications, without depending on infrastructure beyond your laptop ensuring data privacy and security.
+* [OpenVINO GenAI](https://github.com/openvinotoolkit/openvino.genai) - High-level GenAI pipeline library built on OpenVINO for LLM, VLM, Whisper, and Diffusion use cases. Features speculative decoding, Prompt Lookup, and agent-ready integrations with OpenVINO Model Server.
 
 ### Frameworks
 * [Keras 3](https://github.com/keras-team/keras) - Keras 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, NumPy and OpenVINO. User can switch on OpenVINO backend for models inference using Keras API.
+* [OpenVINO torch.compile backend](https://docs.openvino.ai/2025/openvino-workflow/torch-compile.html) - Run PyTorch models natively on OpenVINO using `torch.compile`, without exporting to ONNX or IR. Compatible with LLMs, Diffusers, Stable Diffusion, and Intel NPUs via the TorchDynamo backend.
+* [ExecuTorch OpenVINO Backend](https://docs.pytorch.org/executorch/stable/build-run-openvino.html) - OpenVINO backend for ExecuTorch enabling optimized PyTorch edge inference on CPU, GPU, and NPU targets.
+* [LangChain OpenVINO integration](https://docs.langchain.com/oss/python/integrations/llms/openvino) - Officially supported LangChain backend for running LLMs, embeddings, and rerankers with OpenVINO, suitable for RAG and Agent pipelines on CPU, GPU, and NPU.
+* [langchain-openvino](https://github.com/11happy/langchain-openvino) - Community project extending LangChain with OpenVINO support for LLMs, embeddings, Whisper, and Vision-Language Models.
+* [Optimum Intel](https://github.com/huggingface/optimum-intel) - Hugging Face integration layer for OpenVINO supporting Transformers, Diffusers, and SentenceTransformers with INT4/INT8 quantization via NNCF.
 
 ### AI Computer Vision
 
@@ -153,6 +160,9 @@ MANIPULATION PROGRAM
 * [OpenVINO Model Server k8s Terraform](https://github.com/dummyuser42/openvino-model-server-k8s-terraform) - Deploying Kubernetes cluster via Terraform as well as deploying and hosting a OpenVINO Model Server on it.
 
 * [Application of Vision Language Models with ROS 2](https://github.com/nilutpolkashyap/vlms_with_ros2_workshop) -  Dives into vision-language models for Robotics applications using ROS 2 and Intel OpenVINO toolkit.
+
+### Robotics
+* [ROS 2 OpenVINO Toolkit](https://github.com/intel/ros2_openvino_toolkit) - Intel toolkit for integrating OpenVINO into ROS 2 pipelines, supporting object detection, segmentation, and tracking for robotics and edge AI applications.
 
 ### Related Communities
 See [Awesome oneAPI](https://github.com/oneapi-community/awesome-oneapi) for leading oneAPI and SYCL projects across diverse industries.
