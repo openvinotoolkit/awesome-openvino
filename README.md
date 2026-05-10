@@ -160,6 +160,7 @@ MANIPULATION PROGRAM
 * [OpenVINO Model Server k8s Terraform](https://github.com/dummyuser42/openvino-model-server-k8s-terraform) - Deploying Kubernetes cluster via Terraform as well as deploying and hosting a OpenVINO Model Server on it.
 
 * [Application of Vision Language Models with ROS 2](https://github.com/nilutpolkashyap/vlms_with_ros2_workshop) -  Dives into vision-language models for Robotics applications using ROS 2 and Intel OpenVINO toolkit.
+* [PyTorch drives Intel XPU model training](docs%2Fen%2FPyTorch%20drives%20Intel%20XPU%20model%20training.md) - Accelerate the training of YoloV11 model through Intel AI PC XPU.[Chinese page](https://mp.weixin.qq.com/s/5C9n_TNecwfOJXoe5O0GwA) 
 
 ### Robotics
 * [ROS 2 OpenVINO Toolkit](https://github.com/intel/ros2_openvino_toolkit) - Intel toolkit for integrating OpenVINO into ROS 2 pipelines, supporting object detection, segmentation, and tracking for robotics and edge AI applications.
