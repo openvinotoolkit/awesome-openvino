@@ -141,6 +141,7 @@ MANIPULATION PROGRAM)
 * [NTUST Edge AI 2023 Artificial Intelligence and Edge Computing Practice ](https://github.com/OmniXRI/NTUST_EdgeAI_2023) - Educational meterials about AI and Edge Computing Practice GNU IMAGE
 MANIPULATION PROGRAM
 * [OpenVINO Handbook](https://github.com/openvino-book/openvino_handbook/blob/main/README_en.md) - A published [OpenVINO Handbook](https://item.jd.com/10150500500024.html) in Chinese to help AI developers learn OpenVINO from scratch.
+* [Custom OpenVINO server from scratch](https://github.com/Jermalk/stormvino) FastAPI/OpenVINO inference server with streaming, embeddings, and OpenAI-compatible API.
   
 ### Miscellaneous
 
