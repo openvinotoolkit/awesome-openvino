@@ -127,6 +127,7 @@ MANIPULATION PROGRAM)
 ### Natural Language Processing
 * [Japanese chatbot Youri](https://github.com/yas-sim/openvino_japanese_chatbot_youri-7b-chat) - LLM Japanese chatbot demo program using Intel OpenVINO toolkit.
 * [OpenVINO GPT-Neo](https://github.com/yousseb/ov-gpt-neo) - a port of GPT-Neo that uses OpenVINO.
+* [OpenVINO Notes](https://github.com/embedded-dev-research/openvino-notes) - An Android notes app written in Kotlin that uses OpenVINO for on-device AI-assisted text processing.
 * [Resume-Based Interview Preparation Tool](https://github.com/serinryu/interviewhelper_openvino) - The Resume-Based Interview Preparation Tool is a software application designed to streamline the interview process by helping interviewers generate relevant and meaningful questions based on a candidate's resume or portfolio page.
 
 ### Multimodal projects
