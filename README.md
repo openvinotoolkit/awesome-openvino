@@ -107,6 +107,7 @@ MANIPULATION PROGRAM)
 * [OpenVINO-Deploy](https://github.com/wxxz975/OpenVINO-Deploy) - A repository showcasing the deployment of popular object detection AI algorithms using the OpenVINO C++ API for efficient inference.
 * [Clip-Chinese](https://github.com/towhee-io/examples/blob/main/image/text_image_search/3_build_chinese_image_search_engine.ipynb) - Chinese image-text similarity matching tasks, leverage OpenVINO and the Towhee embedding library.
 * [vinoAuthFace](https://github.com/karanshukla/vinoAuthFace) - Windows Hello-style face unlock for Linux (sudo, lock screen, polkit) using an IR camera, with an optional OpenVINO backend for the Intel NPU. A static binary with no daemon or system packages, so it installs on immutable distros such as Bazzite and Kinoite.
+* [vinoOpenEffects](https://github.com/karanshukla/vinoOpenEffects) - Webcam effects for the Linux desktop (portrait blur, background replace, studio light, center stage, reactions), published as a PipeWire virtual camera and run locally on the Intel NPU through ONNX Runtime's OpenVINO execution provider, with CPU fallback. Wayland only.
 
 
 
