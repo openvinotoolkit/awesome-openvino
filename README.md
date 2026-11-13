@@ -62,6 +62,7 @@ MANIPULATION PROGRAM)
 * [OpenVINO OpenAI API](https://pypi.org/project/openvino-openai-api/) - An OpenAI-compatible API server powered by OpenVINO GenAI for efficient inference on Intel hardware. OpenAI API compatibility for easy integration with existing applications, Powered by OpenVINO for optimized inference on Intel CPUs and GPUs, Support for both streaming and non-streaming responses, Simple command-line interface for launching the server. Easy installation with `pip install openvino-openai-api`. The project is created with AI coding assistance. You can read the journey and steps in the following 3 articles: [part 1](https://pub.towardsai.net/i-created-an-openai-api-server-because-there-wasnt-one-749a33ea90e0?sk=616682e2bec5f1194295a17cc0bb7f52), [part 2](https://pub.towardsai.net/i-created-an-ai-server-with-python-and-5-amazing-features-part-2-bde233681e4e?sk=c7e01ab57e7809388720d17855b88217) and [part 3](https://pub.towardsai.net/openvino-genai-api-server-from-ai-coding-to-pip-package-part-3-da7ab34a34e4?sk=3e98fc5ce1da18dd38d2124ec1603235)
 * [Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab) - Podman AI Lab is an open source extension for Podman Desktop to work with LLMs (Large Language Models) on a local environment using the OpenVINO model server. Featuring a recipe catalog with common AI use cases, a curated set of open source models, and a playground for learning, prototyping and experimentation, Podman AI Lab helps you to quickly and easily get started bringing AI into your applications, without depending on infrastructure beyond your laptop ensuring data privacy and security.
 * [OpenVINO GenAI](https://github.com/openvinotoolkit/openvino.genai) - High-level GenAI pipeline library built on OpenVINO for LLM, VLM, Whisper, and Diffusion use cases. Features speculative decoding, Prompt Lookup, and agent-ready integrations with OpenVINO Model Server.
+* [vinoPop](https://github.com/karanshukla/vinoPop) - PopClip for Linux: select text and a bar of context-aware actions appears over it. Summarize, rewrite, explain and translate run Gemma 4 locally on the Intel NPU through OpenVINO GenAI (GPU or CPU fallback), with OCR of a screen region, clipboard history and Python plugins. Native on KDE Plasma 6 Wayland, XWayland elsewhere.
 
 ### Frameworks
 * [Keras 3](https://github.com/keras-team/keras) - Keras 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, NumPy and OpenVINO. User can switch on OpenVINO backend for models inference using Keras API.
@@ -115,6 +116,7 @@ MANIPULATION PROGRAM)
 * [OpenVINO™ AI Plugins for Audacity®](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity® such as Music Stem Separation, Noise Suppression, Transcription, and Music Generation.
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
 * [vinoWhisper](https://github.com/karanshukla/vinoWhisper) - Live captions for anything playing on a Linux laptop, run on the Intel NPU through OpenVINO GenAI's `WhisperPipeline`. Fully local, with hold-to-talk dictation and Whisper's translation into English. Words are never rewritten once shown.
+* [vinoSpeak](https://github.com/karanshukla/vinoSpeak) - Local text-to-speech on the Intel NPU using Kokoro-82M INT8 through OpenVINO GenAI. Reads text, files and stdin aloud, starting with the first sentence while the rest is synthesized; 41 voices in seven languages, with GPU and CPU fallback. Python API and CLI.
 * [Sangeet Guru](https://github.com/TABREZ-96/Sangeet_Guru) - A music generation app where users input a music style description to get custom audio tracks.
   
 ### OpenVINO API extentions
@@ -136,6 +138,7 @@ MANIPULATION PROGRAM)
 * [Scene Explorer for kids](https://github.com/AJV009/explore-scene-w-object-detection) - Integration of a chat bot with an object detection algorithm.
 * [Indoor Care Chatbot](https://github.com/AJV009/indoor-care-chatbot) - An Elderly Indoor Care Chatbot with an object detection algorithm.
 * [SA2](https://github.com/LHBuilder/SA-Segment-Anything) - Vision-Oriented MultiModal AI.
+* [vinoSearch](https://github.com/karanshukla/vinoSearch) - Semantic file search for Linux on the Intel NPU: finds text, documents, code and photos by what they contain, from KRunner, GNOME Shell's overview or a CLI. Indexing runs on the NPU so it stays off the CPU, and the index stays current through inotify. Installs into the home directory, so it works on immutable distros.
 
 ### openSUSE 
 * [OpenVINO Support](https://en.opensuse.org/SDB:Install_OpenVINO) This initiative generated openVINO compatibility with the openSUSE Linux platform. Because dependencies were added to tools and libraries for software development using C/C++ and other compilation directives for the programming language.
@@ -161,6 +164,7 @@ MANIPULATION PROGRAM
 * [who_what_benchmark](https://github.com/andreyanufr/who_what_benchmark) - Simple and quick accuracy test for compressed, quantized, pruned, distilled LLMs from [NNCF](https://github.com/openvinotoolkit/nncf), Bitsandbytes, GPTQ, and BigDL-LLM.
 * [OpenVINO with Docker](https://github.com/jonathanyeh0723/openvino-with-docker) - Dockerizing OpenVINO applications.
 * [ovfetch](https://github.com/karanshukla/ovfetch) - Resolves, downloads and hash-verifies the OpenVINO runtime (or OpenVINO-enabled ONNX Runtime) that fits an Intel NPU and its installed driver, and installs it into its own prefix without touching the system's OpenVINO or driver. Used by vinoAuthFace and vinoOpenEffects.
+* [vinoWatch](https://github.com/karanshukla/vinoWatch) - A tray daemon showing the CPU, RAM and NPU load of every process that loads OpenVINO, with an on-demand probe for a stuck Intel NPU driver and a one-click driver reset.
 * [OpenVINO AICG Samples](https://github.com/sammysun0711/OpenVINO_AIGC_Samples) - A collection of samples for NLP and Image Generation.
 * [OpenVINO Model Server k8s Terraform](https://github.com/dummyuser42/openvino-model-server-k8s-terraform) - Deploying Kubernetes cluster via Terraform as well as deploying and hosting a OpenVINO Model Server on it.
 
