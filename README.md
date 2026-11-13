@@ -64,7 +64,8 @@ MANIPULATION PROGRAM)
 * [OpenVINO GenAI](https://github.com/openvinotoolkit/openvino.genai) - High-level GenAI pipeline library built on OpenVINO for LLM, VLM, Whisper, and Diffusion use cases. Features speculative decoding, Prompt Lookup, and agent-ready integrations with OpenVINO Model Server.
 * [Cascadia](https://github.com/labscommunity/cascadia) - Distributed LLM inference across Intel laptops, desktops, and AI PCs. Shards a model into INT4 pipeline stages across multiple machines and serves it through an OpenAI-compatible API, using OpenVINO and OpenVINO GenAI engines (including distributed speculative decoding). Ships as a single Rust binary per node with mDNS peer discovery and a `doctor` command that detects when OpenVINO can't see your GPU.
 * [RustedVINO](https://github.com/Jermalk/rustedvino-oe) - Multimodal inference server written in Rust on top of OpenVINO GenAI. A single native binary serves LLM, VLM, STT, TTS, embeddings, reranking and image generation concurrently through an OpenAI-compatible API with custom extensions. Supports dynamic model loading and unloading without restart and exposes a Prometheus metrics endpoint.
-  
+* [vinoPop](https://github.com/karanshukla/vinoPop) - PopClip for Linux: select text and a bar of context-aware actions appears over it. Summarize, rewrite, explain and translate run Gemma 4 locally on the Intel NPU through OpenVINO GenAI (GPU or CPU fallback), with OCR of a screen region, clipboard history and Python plugins. Native on KDE Plasma 6 Wayland, XWayland elsewhere.
+
 ### Frameworks
 * [Keras 3](https://github.com/keras-team/keras) - Keras 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, NumPy and OpenVINO. User can switch on OpenVINO backend for models inference using Keras API.
 * [OpenVINO torch.compile backend](https://docs.openvino.ai/2025/openvino-workflow/torch-compile.html) - Run PyTorch models natively on OpenVINO using `torch.compile`, without exporting to ONNX or IR. Compatible with LLMs, Diffusers, Stable Diffusion, and Intel NPUs via the TorchDynamo backend.
@@ -108,12 +109,16 @@ MANIPULATION PROGRAM)
 * [Yolov9 with OpenVINO](https://github.com/ahsan-raazaa/yolov9-openvino) - C++ and python implementation of YOLOv9 using OpenVINO
 * [OpenVINO-Deploy](https://github.com/wxxz975/OpenVINO-Deploy) - A repository showcasing the deployment of popular object detection AI algorithms using the OpenVINO C++ API for efficient inference.
 * [Clip-Chinese](https://github.com/towhee-io/examples/blob/main/image/text_image_search/3_build_chinese_image_search_engine.ipynb) - Chinese image-text similarity matching tasks, leverage OpenVINO and the Towhee embedding library.
+* [vinoAuthFace](https://github.com/karanshukla/vinoAuthFace) - Windows Hello-style face unlock for Linux (sudo, lock screen, polkit) using an IR camera, with an optional OpenVINO backend for the Intel NPU. A static binary with no daemon or system packages, so it installs on immutable distros such as Bazzite and Kinoite.
+* [vinoOpenEffects](https://github.com/karanshukla/vinoOpenEffects) - Webcam effects for the Linux desktop (portrait blur, background replace, studio light, center stage, reactions), published as a PipeWire virtual camera and run locally on the Intel NPU through ONNX Runtime's OpenVINO execution provider, with CPU fallback. Wayland only.
 
 
 
 ### AI Audio
 * [OpenVINO™ AI Plugins for Audacity®](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity® such as Music Stem Separation, Noise Suppression, Transcription, and Music Generation.
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
+* [vinoWhisper](https://github.com/karanshukla/vinoWhisper) - Live captions for anything playing on a Linux laptop, run on the Intel NPU through OpenVINO GenAI's `WhisperPipeline`. Fully local, with hold-to-talk dictation and Whisper's translation into English. Words are never rewritten once shown.
+* [vinoSpeak](https://github.com/karanshukla/vinoSpeak) - Local text-to-speech on the Intel NPU using Kokoro-82M INT8 through OpenVINO GenAI. Reads text, files and stdin aloud, starting with the first sentence while the rest is synthesized; 41 voices across six languages, with GPU and CPU fallback. Python API and CLI.
 * [Sangeet Guru](https://github.com/TABREZ-96/Sangeet_Guru) - A music generation app where users input a music style description to get custom audio tracks.
   
 ### OpenVINO API extentions
@@ -135,6 +140,7 @@ MANIPULATION PROGRAM)
 * [Scene Explorer for kids](https://github.com/AJV009/explore-scene-w-object-detection) - Integration of a chat bot with an object detection algorithm.
 * [Indoor Care Chatbot](https://github.com/AJV009/indoor-care-chatbot) - An Elderly Indoor Care Chatbot with an object detection algorithm.
 * [SA2](https://github.com/LHBuilder/SA-Segment-Anything) - Vision-Oriented MultiModal AI.
+* [vinoSearch](https://github.com/karanshukla/vinoSearch) - Semantic file search for Linux on the Intel NPU: finds text, documents, code and photos by what they contain, from KRunner, GNOME Shell's overview or a CLI. Indexing runs on the NPU so it stays off the CPU, and the index stays current through inotify. Installs into the home directory, so it works on immutable distros.
 
 ### openSUSE 
 * [OpenVINO Support](https://en.opensuse.org/SDB:Install_OpenVINO) This initiative generated openVINO compatibility with the openSUSE Linux platform. Because dependencies were added to tools and libraries for software development using C/C++ and other compilation directives for the programming language.
@@ -159,6 +165,8 @@ MANIPULATION PROGRAM
 * [OpenVINO Quantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
 * [who_what_benchmark](https://github.com/andreyanufr/who_what_benchmark) - Simple and quick accuracy test for compressed, quantized, pruned, distilled LLMs from [NNCF](https://github.com/openvinotoolkit/nncf), Bitsandbytes, GPTQ, and BigDL-LLM.
 * [OpenVINO with Docker](https://github.com/jonathanyeh0723/openvino-with-docker) - Dockerizing OpenVINO applications.
+* [ovfetch](https://github.com/karanshukla/ovfetch) - Resolves, downloads and hash-verifies the OpenVINO runtime (or OpenVINO-enabled ONNX Runtime) that fits an Intel NPU and its installed driver, and installs it into its own prefix without touching the system's OpenVINO or driver. Used by vinoAuthFace and vinoOpenEffects.
+* [vinoWatch](https://github.com/karanshukla/vinoWatch) - A tray daemon showing the CPU, RAM and NPU load of every process that loads OpenVINO, with an on-demand probe for a stuck Intel NPU driver and a one-click driver reset.
 * [OpenVINO AICG Samples](https://github.com/sammysun0711/OpenVINO_AIGC_Samples) - A collection of samples for NLP and Image Generation.
 * [OpenVINO Model Server k8s Terraform](https://github.com/dummyuser42/openvino-model-server-k8s-terraform) - Deploying Kubernetes cluster via Terraform as well as deploying and hosting a OpenVINO Model Server on it.
 
