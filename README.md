@@ -114,7 +114,7 @@ MANIPULATION PROGRAM)
 ### AI Audio
 * [OpenVINO™ AI Plugins for Audacity®](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity® such as Music Stem Separation, Noise Suppression, Transcription, and Music Generation.
 * [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
-* [vinoWhisper](https://github.com/karanshukla/vinoWhisper) - Live captions for anything playing on a Linux laptop, run on the Intel NPU through OpenVINO GenAI's `WhisperPipeline`. Fully local, and words are never rewritten once shown.
+* [vinoWhisper](https://github.com/karanshukla/vinoWhisper) - Live captions for anything playing on a Linux laptop, run on the Intel NPU through OpenVINO GenAI's `WhisperPipeline`. Fully local, with hold-to-talk dictation and Whisper's translation into English. Words are never rewritten once shown.
 * [Sangeet Guru](https://github.com/TABREZ-96/Sangeet_Guru) - A music generation app where users input a music style description to get custom audio tracks.
   
 ### OpenVINO API extentions
@@ -160,7 +160,7 @@ MANIPULATION PROGRAM
 * [OpenVINO Quantization](https://github.com/AbhiLegend/OpenVinoQuantization)- Image Quantization Classification using STL 10 Dataset.
 * [who_what_benchmark](https://github.com/andreyanufr/who_what_benchmark) - Simple and quick accuracy test for compressed, quantized, pruned, distilled LLMs from [NNCF](https://github.com/openvinotoolkit/nncf), Bitsandbytes, GPTQ, and BigDL-LLM.
 * [OpenVINO with Docker](https://github.com/jonathanyeh0723/openvino-with-docker) - Dockerizing OpenVINO applications.
-* [ovfetch](https://github.com/karanshukla/ovfetch) - Resolves, downloads and hash-verifies the OpenVINO-enabled ONNX Runtime an Intel NPU needs, matched to the installed driver, so Rust and Python projects can link OpenVINO without a system install.
+* [ovfetch](https://github.com/karanshukla/ovfetch) - Resolves, downloads and hash-verifies the OpenVINO runtime (or OpenVINO-enabled ONNX Runtime) that fits an Intel NPU and its installed driver, and installs it into its own prefix without touching the system's OpenVINO or driver. Used by vinoAuthFace and vinoOpenEffects.
 * [OpenVINO AICG Samples](https://github.com/sammysun0711/OpenVINO_AIGC_Samples) - A collection of samples for NLP and Image Generation.
 * [OpenVINO Model Server k8s Terraform](https://github.com/dummyuser42/openvino-model-server-k8s-terraform) - Deploying Kubernetes cluster via Terraform as well as deploying and hosting a OpenVINO Model Server on it.
 
