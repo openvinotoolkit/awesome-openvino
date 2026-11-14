@@ -124,6 +124,7 @@ MANIPULATION PROGRAM)
 * [OpenVINO-rs](https://github.com/intel/openvino-rs)
 * [OpenVINO-GO Client](https://github.com/AbhiLegend/DrugLiphphilicty) - The end goal is to utilize a Go client to facilitate user-friendly batch processing of molecular data, interfacing with a Flask server that employs OpenVINO for optimized lipophilicity predictions and molecular visualization
 * [OpenVINO Nim API](https://github.com/AbyssGG/OpenVINO-Nim-API) - Nim language bindings for the OpenVINO Runtime and GenAI C APIs, featuring high-level managed and low-level raw interfaces, asynchronous inference, and generative AI support.
+* [Resonance](https://github.com/AbyssGG/Resonance) - Lightweight Nim bindings for the OpenVINO C API, focused on Intel NPU deployment workflows, compiled-model blob caching, profiling helpers, and safe native resource management.
 
 
 
