@@ -64,7 +64,10 @@ MANIPULATION PROGRAM)
 * [OpenVINO GenAI](https://github.com/openvinotoolkit/openvino.genai) - High-level GenAI pipeline library built on OpenVINO for LLM, VLM, Whisper, and Diffusion use cases. Features speculative decoding, Prompt Lookup, and agent-ready integrations with OpenVINO Model Server.
 * [Cascadia](https://github.com/labscommunity/cascadia) - Distributed LLM inference across Intel laptops, desktops, and AI PCs. Shards a model into INT4 pipeline stages across multiple machines and serves it through an OpenAI-compatible API, using OpenVINO and OpenVINO GenAI engines (including distributed speculative decoding). Ships as a single Rust binary per node with mDNS peer discovery and a `doctor` command that detects when OpenVINO can't see your GPU.
 * [RustedVINO](https://github.com/Jermalk/rustedvino-oe) - Multimodal inference server written in Rust on top of OpenVINO GenAI. A single native binary serves LLM, VLM, STT, TTS, embeddings, reranking and image generation concurrently through an OpenAI-compatible API with custom extensions. Supports dynamic model loading and unloading without restart and exposes a Prometheus metrics endpoint.
-  
+* [Isvik](https://github.com/AbyssGG/Isvik) - Native Nim-based local AI inference runtime powered by OpenVINO, featuring Intel hardware-aware device scheduling, an interactive CLI, streaming LLM generation, and OpenAI/Anthropic-compatible APIs.
+
+* [Isvik.cpp](https://github.com/AbyssGG/Isvik.cpp) - C++20 local AI runtime built around OpenVINO GenAI, featuring desktop chat, an interactive CLI, local API serving, optional ONNX Runtime GenAI support, and experimental NVIDIA TensorRT integration.
+
 ### Frameworks
 * [Keras 3](https://github.com/keras-team/keras) - Keras 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, NumPy and OpenVINO. User can switch on OpenVINO backend for models inference using Keras API.
 * [OpenVINO torch.compile backend](https://docs.openvino.ai/2025/openvino-workflow/torch-compile.html) - Run PyTorch models natively on OpenVINO using `torch.compile`, without exporting to ONNX or IR. Compatible with LLMs, Diffusers, Stable Diffusion, and Intel NPUs via the TorchDynamo backend.
