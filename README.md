@@ -108,6 +108,7 @@ MANIPULATION PROGRAM)
 * [Yolov9 with OpenVINO](https://github.com/ahsan-raazaa/yolov9-openvino) - C++ and python implementation of YOLOv9 using OpenVINO
 * [OpenVINO-Deploy](https://github.com/wxxz975/OpenVINO-Deploy) - A repository showcasing the deployment of popular object detection AI algorithms using the OpenVINO C++ API for efficient inference.
 * [Clip-Chinese](https://github.com/towhee-io/examples/blob/main/image/text_image_search/3_build_chinese_image_search_engine.ipynb) - Chinese image-text similarity matching tasks, leverage OpenVINO and the Towhee embedding library.
+* [mayaku](https://github.com/emrahnazif/mayaku) - Train real-time object detection and instance segmentation models on your own data, then export them to OpenVINO (fp32, fp16 or int8) with one call. The exported network uses only five ops (conv, ReLU, add, max-pool, resize). Its nano street detector runs a 1080p frame end to end in 11.6 ms on an Intel i9-10900X CPU with OpenVINO int8, at the same accuracy as fp32.
 
 
 
